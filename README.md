@@ -16,3 +16,7 @@ O intuito do projeto é exercitar de forma prática conhecimentos acerca de Mach
 * [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho/)
 * [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho08/)
 
+## Data visualizations:
+
+
+![newplot (16)](https://user-images.githubusercontent.com/60260984/165633657-28a43a90-2d18-49e3-8268-ad2432d5517d.png)
