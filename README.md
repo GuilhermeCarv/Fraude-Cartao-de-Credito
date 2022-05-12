@@ -13,7 +13,7 @@ O intuito do projeto é exercitar de forma prática conhecimentos acerca de Mach
 [Link para o projeto completo](https://github.com/GuilhermeCarv/Fraude-Cartao-de-Credito/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho/)
+* [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho/machine-learning-aplicado-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-8fa4c2e8526)
 * [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho08/)
 
 ## Data visualizations:
